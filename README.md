@@ -1,4 +1,6 @@
 # Meristem
+
+[![Join the chat at https://gitter.im/jskulavik/Meristem](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jskulavik/Meristem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This <i>organic</i> geospatial undertaking will aim to collect, house, and distribute an opinionated geospatial toolbelt for the modern web.  The aim will be to constantly leverage new technologies that we believe serve the greater good in need of location-based intelligence.
 
 ## The What and the Why
